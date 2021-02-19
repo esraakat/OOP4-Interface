@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP4_Interface
+namespace OOP4_Interface 
 {
-    interface ICreditManager
+    interface ICreditManager //template
     {
-        void Calculate();
+        void Calculate(); ////same signature but different details
     }
 }
